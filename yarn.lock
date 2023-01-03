@@ -576,9 +576,9 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@nestjs/cli@^8.0.0":
+"@nestjs/cli@^8.2.8":
   version "8.2.8"
-  resolved "https://registry.npmjs.org/@nestjs/cli/-/cli-8.2.8.tgz"
+  resolved "https://registry.yarnpkg.com/@nestjs/cli/-/cli-8.2.8.tgz#63e5b477f90e6d0238365dcc6236b95bf4f0c807"
   dependencies:
     "@angular-devkit/core" "13.3.6"
     "@angular-devkit/schematics" "13.3.6"
@@ -4188,9 +4188,9 @@ tsconfig-paths-webpack-plugin@3.5.2:
     enhanced-resolve "^5.7.0"
     tsconfig-paths "^3.9.0"
 
-tsconfig-paths@3.14.1, tsconfig-paths@^3.10.1, tsconfig-paths@^3.9.0:
+tsconfig-paths@3.14.1, tsconfig-paths@^3.14.1, tsconfig-paths@^3.9.0:
   version "3.14.1"
-  resolved "https://registry.npmjs.org/tsconfig-paths/-/tsconfig-paths-3.14.1.tgz"
+  resolved "https://registry.yarnpkg.com/tsconfig-paths/-/tsconfig-paths-3.14.1.tgz#ba0734599e8ea36c862798e920bcf163277b137a"
   dependencies:
     "@types/json5" "^0.0.29"
     json5 "^1.0.1"
